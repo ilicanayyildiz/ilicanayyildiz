@@ -1,23 +1,21 @@
-<h1 align="center">Hi there, I'm Ilıcan Ayyıldız 👋</h1>
+<h1 align="center">Hey, I'm Ilıcan Ayyıldız 💪</h1>
 
-<h3 align="center">Full Stack .NET Developer</h3>
-
----
-
-## 🧑‍💻 About Me
-
-- A developer specializing in .NET technologies (ASP.NET MVC, .NET Core, Web API).  
-- Skilled in SQL Server, Entity Framework Core, and database management.  
-- Experienced in Clean Architecture, Layered Architecture, and SOLID Principles.  
-- Knowledgeable about Azure DevOps, CI/CD pipelines, and API Design.  
-- Proficient in frontend technologies such as JavaScript, JQuery, and AJAX.  
-- Passionate about continuous learning and working on new projects to enhance my skills.
+<h3 align="center">Full Stack .NET Developer | Fitness Enthusiast</h3>
 
 ---
 
-## 🚀 Technologies & Tools
+## 👨‍💻 About Me
 
-### Languages & Frameworks
+- **Developer** passionate about building powerful, scalable applications using .NET technologies (ASP.NET Core, MVC, Web API).  
+- Strong background in **Clean Architecture**, **SOLID Principles**, and **Azure DevOps** for efficient development workflows.  
+- **Fitness addict**: When I'm not coding, you'll find me pushing my limits in the gym.  
+- A problem solver focused on creating robust solutions and improving my skills every day.
+
+---
+
+## 💻 Technologies & Tools
+
+### Programming Languages & Frameworks
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![ASP.NET MVC](https://img.shields.io/badge/ASP.NET%20MVC-512BD4?style=for-the-badge)
@@ -43,31 +41,15 @@
 
 ---
 
-## 📌 Featured Project
+## 🚀 Featured Project
 
-### 🎬 [GumBurger)
+### 🍔 [GumBurger](#)
 
-> A Burger Order App NOT READY.
+> A dynamic burger ordering platform. Currently in progress. Stay tuned!
 
 ---
 
-## 🤝 Connect with Me
+## 📞 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/il%C4%B1can-ayy%C4%B1ld%C4%B1z-5a6994238/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ilicanayyildiz)
-
----
-
-## 😄 Fun Fact
-
-I love optimizing database queries, discovering new technologies, and creating cool projects in the .NET ecosystem.  
-I'm also passionate about fitness and run my own burger brand: **GumBurger**! 🍔
-
----
-
-## 🏆 Badges & GitHub Stats
-
-![Ilıcan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ilicanayyildiz&show_icons=true&theme=tokyonight)
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ilicanayyildiz&layout=compact&theme=tokyonight)
-
----
