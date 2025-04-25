@@ -45,9 +45,9 @@
 
 ## 📌 Featured Project
 
-### 🎬 [Movie Library CRUD App](https://github.com/ilicanayyildiz/film-library)
+### 🎬 [GumBurger)
 
-> A movie library application built with React and JSON Server, featuring CRUD operations, category filtering, and search functionality.
+> A Burger Order App NOT READY.
 
 ---
 
